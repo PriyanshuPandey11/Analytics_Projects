@@ -2,21 +2,31 @@
 
 ## Overview
 
-**Power BI Storytelling – Rallis India** is an end-to-end business intelligence project that transforms raw inventory data into meaningful business insights through interactive dashboards and data storytelling.
+**Power BI Storytelling – Rallis India** is an end-to-end business intelligence project developed in collaboration with **industry experts and professionals from Rallis India**. Working as part of a cross-functional team, I contributed to transforming real-world inventory data into meaningful business insights through interactive dashboards and data storytelling.
 
-Rather than simply visualizing KPIs, this project follows a structured storytelling approach to answer three critical business questions:
+From understanding the business problem and working with stakeholders to building the data model, developing Power BI dashboards, and presenting actionable insights, this project provided hands-on exposure to solving real business challenges using data analytics.
+
+Rather than simply visualizing KPIs, the project follows a structured storytelling framework to answer three critical business questions:
 
 * **What happened?**
 * **Why did it happen?**
 * **What should be done next?**
 
-The dashboards enable stakeholders to identify operational bottlenecks, understand inventory performance, and make informed business decisions.
+---
+
+## Project Highlights
+
+* 🤝 Collaborated with **industry experts** and professionals from **Rallis India** on a real-world business problem.
+* 📈 Delivered an **end-to-end Power BI analytics project**, from understanding business requirements to developing executive dashboards.
+* 📊 Built interactive dashboards that transform operational data into business decisions.
+* 🔍 Applied business storytelling techniques to explain complex inventory issues in a simple and actionable manner.
+* 💡 Presented insights focused on improving inventory management and operational efficiency.
 
 ---
 
 ## Business Problem
 
-Efficient inventory management is crucial for maintaining customer satisfaction, reducing costs, and improving working capital. The available data indicated several operational challenges, including:
+Efficient inventory management is essential for minimizing costs, improving service levels, and optimizing working capital. Rallis India faced operational challenges related to inventory visibility, including:
 
 * Inventory movement delays
 * Unserved stock across warehouses
@@ -25,7 +35,7 @@ Efficient inventory management is crucial for maintaining customer satisfaction,
 * Inventory nearing expiry
 * Working capital blocked in excess inventory
 
-The objective of this project was to uncover the root causes behind these issues and present actionable insights through an intuitive Power BI dashboard.
+The objective of this project was to identify the underlying causes of these issues and present business-ready insights through interactive Power BI dashboards.
 
 ---
 
@@ -34,9 +44,9 @@ The objective of this project was to uncover the root causes behind these issues
 * Analyze inventory movement and delays.
 * Identify products contributing to unserved stock.
 * Detect slow-moving and ageing inventory.
-* Understand inventory patterns across different dimensions.
-* Build interactive dashboards for business users.
-* Present insights in a storytelling format to support strategic decision-making.
+* Understand inventory trends across multiple business dimensions.
+* Build executive-friendly dashboards for business users.
+* Deliver actionable recommendations using data storytelling.
 
 ---
 
@@ -46,7 +56,7 @@ The objective of this project was to uncover the root causes behind these issues
 * **DAX (Data Analysis Expressions)**
 * **Power Query**
 * **Interactive Visualizations**
-* **Drill-through & Drill-down Analysis**
+* **Drill-down & Drill-through Analysis**
 * **Decomposition Tree**
 * **Business Storytelling**
 
@@ -54,87 +64,87 @@ The objective of this project was to uncover the root causes behind these issues
 
 ## Dashboard Overview
 
-The project consists of **three interactive dashboards**, each designed to guide users from high-level business performance to detailed operational insights.
+The project consists of **three interactive dashboards**, each designed to guide stakeholders from high-level business performance to detailed operational insights.
 
 ### 📌 Dashboard 1 – Executive Overview
 
-Provides a comprehensive summary of key inventory KPIs, helping management quickly assess overall inventory health and identify areas requiring attention.
+Provides a consolidated view of key inventory KPIs, enabling management to quickly understand overall inventory health and business performance.
 
 ---
 
 ### 📌 Dashboard 2 – Inventory Performance Analysis
 
-Focuses on inventory movement by highlighting:
+Focuses on operational inventory performance by analyzing:
 
 * Inventory delays
 * Unserved stock
 * Slow-moving inventory
 * Ageing stock
-* Product-level performance
-* Category-wise analysis
+* Product-wise trends
+* Category-level performance
 
-Interactive filters and drill-down capabilities allow users to investigate issues in greater detail.
+Interactive filters and drill-down capabilities allow users to explore data at multiple levels.
 
 ---
 
 ### 📌 Dashboard 3 – Root Cause Analysis & Business Insights
 
-Uses advanced Power BI visuals such as the **Decomposition Tree** to identify the key drivers behind inventory issues and converts analytical findings into actionable business recommendations.
+Leverages advanced Power BI visuals, including the **Decomposition Tree**, to identify the primary drivers behind inventory issues and translate analytical findings into practical business recommendations.
 
 ---
 
 ## Key Features
 
-* Interactive dashboard navigation
-* Executive KPI reporting
-* Drill-down and drill-through functionality
+* Executive-level dashboard design
+* Interactive navigation and filtering
+* Drill-down & drill-through analysis
 * Decomposition Tree for root cause analysis
-* Dynamic DAX measures
-* Business storytelling approach
-* User-friendly visual design
+* Dynamic DAX calculations
+* Business storytelling methodology
+* Data-driven decision support
 
 ---
 
 ## Data Dictionary
 
-The project includes a **Data Dictionary** that documents every table and column used in the model.
+The repository includes a comprehensive **Data Dictionary** that documents every table and column used in the Power BI data model.
 
-It provides:
+It contains:
 
 * Table descriptions
 * Column definitions
-* Business meaning of each field
+* Business meaning of each attribute
 * Data relationships
-* Reference documentation for easier understanding and maintenance of the Power BI model
+* Reference documentation for easier understanding and future maintenance of the model
 
 ---
 
 ## Business Value
 
-This project demonstrates how Power BI can be used beyond reporting by converting operational data into actionable business intelligence.
+By collaborating directly with industry professionals and working on real operational data, this project demonstrates how business intelligence can be used to solve practical supply chain challenges.
 
 The dashboards help stakeholders:
 
 * Monitor inventory performance
-* Detect operational inefficiencies
-* Reduce excess inventory
+* Identify operational bottlenecks
+* Reduce excess and ageing inventory
 * Improve inventory planning
-* Support data-driven decision-making
-* Enhance working capital management
+* Enhance working capital utilization
+* Make data-driven business decisions
 
 ---
 
 ## Learning Outcomes
 
-Through this project, I strengthened my skills in:
+This project strengthened my ability to:
 
-* Business storytelling with Power BI
-* Data modeling and relationships
-* DAX measure creation
-* Interactive dashboard design
-* Inventory analytics
-* Root cause analysis using Decomposition Tree
-* Building executive-ready business reports
+* Work with industry experts in a collaborative analytics environment.
+* Understand business requirements and translate them into analytical solutions.
+* Deliver an end-to-end Power BI project from problem definition to dashboard deployment.
+* Build interactive dashboards using Power BI and DAX.
+* Perform inventory and supply chain analysis.
+* Communicate business insights through data storytelling.
+* Present analytical findings in an executive-friendly format.
 
 ---
 
@@ -153,7 +163,6 @@ Through this project, I strengthened my skills in:
 
 ## Conclusion
 
-This project showcases my ability to transform raw business data into compelling, decision-oriented dashboards using Power BI. By combining interactive visualizations, DAX, and storytelling techniques, the project highlights not only **what** is happening within the inventory system but also **why** it is happening and **how** business leaders can respond effectively.
+This project reflects my ability to work on a real-world analytics engagement alongside industry experts and business stakeholders. By delivering an end-to-end Power BI solution—from understanding business requirements and modeling data to designing interactive dashboards and generating actionable insights—I gained practical experience in applying business intelligence to solve inventory management challenges.
 
-If you found this project interesting, feel free to explore the dashboards, review the data model, and connect with me for feedback or collaboration.
-
+The project demonstrates not only technical proficiency in Power BI, DAX, and data modeling, but also the ability to communicate insights effectively through business storytelling and support data-driven decision-making.
