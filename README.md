@@ -129,6 +129,4 @@ I'm always open to connecting with professionals, recruiters, and fellow data en
 If you have feedback, collaboration opportunities, or simply want to discuss analytics, feel free to reach out.
 ⭐ If you find my work valuable, consider giving this repository a **Star**. It motivates me to continue building impactful analytics solutions and sharing my learning journey.
 
-Name: Priyanshu Pandey
-Email ID: priyanshupandey.work@gmail.com
-LinkedIn: ([Priyanshu Pandey LinkedIn](https://www.linkedin.com/in/priyanshupandey008/))
+Name: Priyanshu Pandey | Email ID: priyanshupandey.work@gmail.com | LinkedIn: ([Priyanshu Pandey LinkedIn](https://www.linkedin.com/in/priyanshupandey008/))
